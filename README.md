@@ -9,6 +9,7 @@ Update `df_fp` in the notebook to point to your local copy of `sr_wq_rs_join.csv
 
 Download HUC-4 Chesapeake Bay Watershed .shp (US Fish and Wildlife Service):
 [watershed](https://gis-fws.opendata.arcgis.com/datasets/chesapeake-bay-watershed-boundary/explore?location=39.826191%2C-77.565341%2C5)
+Update 'chesapeake' in the notebook under "regional experiment" to your local copy of the .shp.
 
 ### Requirements
 See requirements.txt. Developed and tested in Google Colab.
